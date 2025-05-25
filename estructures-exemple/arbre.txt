@@ -1,0 +1,21 @@
+├── src/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   └── routes/
+│   
+├── public/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── views/
+│   ├── admin/
+│   ├── auth/
+│   ├── user/
+│   ├── layouts/
+│   ├── index.ejs
+│   └── 404.ejs
+└── sequelize-cli/
+    ├── migrations/
+    └── seeders/

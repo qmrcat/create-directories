@@ -1,0 +1,17 @@
+/projecte
+  /src
+    /config
+    /controllers
+    /models
+    /routes
+    /middlewares
+    /utils
+    /views
+      /admin
+      /auth
+      /public
+      /user
+    /public
+      /css
+      /js
+      /images

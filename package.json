@@ -1,0 +1,29 @@
+{
+  "name": "create-dirs",
+  "version": "1.0.0",
+  "description": "Eina per crear estructura de directoris",
+  "main": "createDirs.mjs",
+  "type": "module",
+  "bin": {
+    "create-dirs": "./createDirs.mjs"
+  },
+  "pkg": {
+    "targets": [
+      "node18-win-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "scripts": {
+    "build": "pkg . --out-path dist"
+  },
+  "keywords": [
+    "directories",
+    "structure",
+    "cli"
+  ],
+  "author": "Tu nom",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
