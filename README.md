@@ -130,7 +130,7 @@ projecte
     * o
         createDirs.exe estructura.txt
 
-
+Executable: [createDirs.exe](https://github.com/qmrcat/create-directories/releases/tag/create)
 
 
 *Script creat per automatitzar la generació d’arbres de directoris a partir d’una descripció simple en text.*
